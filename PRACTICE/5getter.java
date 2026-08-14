@@ -1,6 +1,5 @@
 import java.util.Scanner;
 class sec {
-
     private int AccountNo;
     private String AccountHolder;
     private long phoneNo;
